@@ -2,6 +2,10 @@
 
 A lightweight, fully local Retrieval-Augmented Generation (RAG) system that runs entirely on your machine. Built with Mistral 7B, FAISS, and Sentence Transformers for powerful offline document Q&A.
 
+## Screenshots
+![WhatsApp Image 2025-04-20 at 14 05 25_7651191f](https://github.com/user-attachments/assets/b41fed29-1c95-49ab-857a-08bce612818c)
+![WhatsApp Image 2025-04-20 at 13 43 18_43c8c244](https://github.com/user-attachments/assets/a1347d59-7ee3-4d86-b2ca-a2c83996b621)
+
 ## Features
 
 - 100% offline - no internet required after setup
