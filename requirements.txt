@@ -1,0 +1,8 @@
+llama-cpp-python==0.2.11
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+beautifulsoup4==4.12.2
+requests==2.31.0
+numpy==1.24.3
+tqdm==4.66.1
+gradio
