@@ -118,10 +118,6 @@ The system is optimized for speed and efficiency:
    - Use a smaller model variant
    - Close other memory-intensive applications
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - [Mistral AI](https://mistral.ai/) for the base model
